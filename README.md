@@ -24,7 +24,7 @@ Visit `work.php`-page
 
 ## Donate
 
-Feel free to donate. `1NibBDZPvJCm568CZMnJUBJoPyUhW7aSag` This will keep me continue improving and updating, Thanks!
+Feel free to donate. 19TJNnznBsnza4eoA1VXGiYz1Mcn1MQVNi This will keep me continue improving and updating, Thanks!
 
 ## Change log
 
